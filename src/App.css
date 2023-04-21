@@ -6,7 +6,7 @@
 }
 
 .app {
-  transition: 0.4s ease-out;
+  transition: 0.3s ease-out;
   background-image: url("./Image/app.jpg");
   background-size: cover;
   background-position: bottom;
